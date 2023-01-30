@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=photoshop,html,css,wordpress)](https://skillicons.dev)
 
 ## Contacts
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) https://www.linkedin.com/in/fanny-lemaitre/
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
-
+https://www.linkedin.com/in/fanny-lemaitre/
