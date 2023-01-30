@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **FannyTM/FannyTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My Current Technical Skills
+## My Current Technical Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-
+## Other skills
 [![My Skills](https://skillicons.dev/icons?i=photoshop,html,css,wordpress)](https://skillicons.dev)
+
+## Contacts
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) https://www.linkedin.com/in/fanny-lemaitre/
+
+
