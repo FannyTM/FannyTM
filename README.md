@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 -->
 
 My Current Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=photoshop,html,css,wordpress)](https://skillicons.dev)
