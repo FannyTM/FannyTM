@@ -23,3 +23,9 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 https://www.linkedin.com/in/fanny-lemaitre/
+
+### Some graphical current 42 projects :
+
+so_long : 
+
+![Screen Shot 2023-02-26 at 9 36 48 PM](https://user-images.githubusercontent.com/95549682/221435910-a6c425c8-8ec5-4aa0-b8cd-dd52719e706a.png)
