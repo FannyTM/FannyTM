@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## Other skills
 [![My Skills](https://skillicons.dev/icons?i=photoshop,html,css,wordpress)](https://skillicons.dev)
 
-## My current projects at 42
+## My current projects at 42 School
 
 ### [ So Long ]
 This project is a very small 2D game. Its purpose is to make you work with textures, sprites, and some other very basic gameplay elements.
