@@ -19,13 +19,18 @@ Here are some ideas to get you started:
 ## Other skills
 [![My Skills](https://skillicons.dev/icons?i=photoshop,html,css,wordpress)](https://skillicons.dev)
 
-## Contacts
+## My current projects at 42
+
+### So Long
+
+![Screen Shot 2023-02-26 at 9 36 48 PM](https://user-images.githubusercontent.com/95549682/221436657-118d8131-7d19-4d59-89f9-8f32bc983600.png)
+
+### miniRT
+![Screen Shot 2023-02-26 at 9 38 20 PM](https://user-images.githubusercontent.com/95549682/221436783-011bc7e9-3f81-47ba-9e86-573754ad26d2.png)
+![Screen Shot 2023-02-26 at 9 38 41 PM](https://user-images.githubusercontent.com/95549682/221436859-1b6f130a-664a-4ca6-b559-319687f7e094.png)
+![Screen Shot 2023-02-26 at 9 38 01 PM](https://user-images.githubusercontent.com/95549682/221436945-717df355-60c6-4af3-a9be-c2c82d3642e5.png)
+
+## Contact
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 https://www.linkedin.com/in/fanny-lemaitre/
-
-### Some graphical current 42 projects :
-
-so_long : 
-
-![Screen Shot 2023-02-26 at 9 36 48 PM](https://user-images.githubusercontent.com/95549682/221435910-a6c425c8-8ec5-4aa0-b8cd-dd52719e706a.png)
