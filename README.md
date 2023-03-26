@@ -23,14 +23,14 @@ Here are some ideas to get you started:
 
 | # Project   | Link/Name     | Note          |  # Project   | Link/Name        | Note          |
 | :---        |    :----:     |          ---: |  :---        |    :----:        |          ---: |
-| 1           | libft         | 125/100       |  8           | philosophers     | 125/100       |
-| 2           | ft_printf     | 100/100       |  9           | minishell        | 125/100       |
-| 3           | get_next_line | 125/100       |  10          | miniRT           | 125/100       |
-| 4           | Born2beRoot   | 125/100       |  11          | CPP_Piscine      | 100/100       |
-| 5           | push_swap     | 125/100       |  12          | webserv          | ⏳⌛️           |
-| 6           | so_long       | 125/100       |  13          | inception        | ⏳⌛️           |
-| 7           | pipex         | 125/100       |  14          | ft_transcendance | ⏳⌛️           | 
-
+| 1           | libft         | 125/100       |  9           | minishell        | 125/100       |
+| 2           | ft_printf     | 100/100       |  10          | miniRT           | 125/100       |
+| 3           | get_next_line | 125/100       |  11          | CPP_Piscine      | 125/100       |
+| 4           | Born2beRoot   | 125/100       |  12          | Python_Piscine   | 100/100       |
+| 5           | push_swap     | 125/100       |  13          | webserv          | ⏳⌛️           |
+| 6           | so_long       | 125/100       |  14          | inception        | ⏳⌛️           |
+| 7           | pipex         | 125/100       |  15          | ft_transcendance | ⏳⌛️           | 
+| 8           | philosophers  | 125/100       |
 
 ### [ So Long ]
 This project is a very small 2D game. Its purpose is to make you work with textures, sprites, and some other very basic gameplay elements.
