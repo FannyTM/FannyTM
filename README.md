@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 | 2           | ft_printf     | 100/100       |  10          | miniRT           | 125/100       |
 | 3           | get_next_line | 125/100       |  11          | CPP_Piscine      | 125/100       |
 | 4           | Born2beRoot   | 125/100       |  12          | Python_Piscine   | 100/100       |
-| 5           | push_swap     | 125/100       |  13          | webserv          | ⏳⌛️           |
-| 6           | so_long       | 125/100       |  14          | inception        | ⏳⌛️           |
-| 7           | pipex         | 125/100       |  15          | ft_transcendance | ⏳⌛️           | 
-| 8           | philosophers  | 125/100       |
+| 5           | push_swap     | 125/100       |  13          | ML_Piscine       | 100/100 (3/5) |
+| 6           | so_long       | 125/100       |  14          | webserv          | ⏳⌛️           |
+| 7           | pipex         | 125/100       |  15          | inception        | ⏳⌛️           |
+| 8           | philosophers  | 125/100       |  16          | ft_transcendance | ⏳⌛️           |
 
 ### [ So Long ]
 This project is a very small 2D game. Its purpose is to make you work with textures, sprites, and some other very basic gameplay elements.
