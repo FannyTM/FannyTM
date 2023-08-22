@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 
 ## My Current Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,docker,js,ts,react,nestjs,nextjs,mysql,postgres,git,github,postman,linux)](https://skillicons.dev)
 
 ## Other skills
 [![My Skills](https://skillicons.dev/icons?i=photoshop,html,css,wordpress)](https://skillicons.dev)
 
-## My current projects at 42 School
+## My Current Projects at 42 School
 
 | # Project   | Link/Name     | Note          |  # Project   | Link/Name        | Note          |
 | :---        |    :----:     |          ---: |  :---        |    :----:        |          ---: |
