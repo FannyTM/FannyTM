@@ -13,14 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My Current Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,docker,js,ts,react,nestjs,nextjs,mysql,postgres,git,github,postman,linux)](https://skillicons.dev)
+# My Current Technical Skills
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,docker,git,github,postman,linux)](https://skillicons.dev)
 
-## Other skills
-[![My Skills](https://skillicons.dev/icons?i=photoshop,html,css,wordpress)](https://skillicons.dev)
+# Other skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nestjs,nextjs,mysql,postgres,html,css,wordpress,photoshop)](https://skillicons.dev)
 
-## My Current Projects at 42 School
-
+# Common-Core Projects at 42 School
 | # Project   | Link/Name     | Note          |  # Project   | Link/Name        | Note          |
 | :---        |    :----:     |          ---: |  :---        |    :----:        |          ---: |
 | 1           | libft         | 125/100       |  9           | minishell        | 125/100       |
@@ -32,19 +31,26 @@ Here are some ideas to get you started:
 | 7           | pipex         | 125/100       |  15          | inception        | 105/100       |
 | 8           | philosophers  | 125/100       |  16          | ft_transcendance | ⏳⌛️          |
 
-### [ So Long ]
-This project is a very small 2D game. Its purpose is to make you work with textures, sprites, and some other very basic gameplay elements.
+**Some visual examples**
+| So Long |  miniRT | | |
+| --- | --- | --- | --- |
+| <img src="https://user-images.githubusercontent.com/95549682/221436657-118d8131-7d19-4d59-89f9-8f32bc983600.png" width="100%"/> | <img src="https://user-images.githubusercontent.com/95549682/221436859-1b6f130a-664a-4ca6-b559-319687f7e094.png" width="100%"/> | <img src="https://user-images.githubusercontent.com/95549682/221436945-717df355-60c6-4af3-a9be-c2c82d3642e5.png" width="100%"/> | <img src="https://user-images.githubusercontent.com/95549682/221436783-011bc7e9-3f81-47ba-9e86-573754ad26d2.png" width="100%"/> |
+| This project is a very small 2D game. Its purpose is to make you work with textures, sprites, and some other very basic gameplay elements. | This project is an introduction to the beautiful world of Raytracing : A Scene with a Sphere and a Plane Illuminated by Vibrant Colored Lights. | A Scene with Many Cylinders Textured with the Code Busters Council Logo - Honoring the Blue Chair of Nice. | A scene with Three Cones Textured in the Colors of the Italian Flag - A Tribute to [sspina](https://github.com/SalvatoreSpina). |
 
-![Screen Shot 2023-02-26 at 9 36 48 PM](https://user-images.githubusercontent.com/95549682/221436657-118d8131-7d19-4d59-89f9-8f32bc983600.png)
 
-### [ miniRT ]
-This project is an introduction to the beautiful world of Raytracing.
+# Post Common-Core Projects at 42 School
 
-![Screen Shot 2023-02-26 at 9 38 20 PM](https://user-images.githubusercontent.com/95549682/221436783-011bc7e9-3f81-47ba-9e86-573754ad26d2.png)
-![Screen Shot 2023-02-26 at 9 38 41 PM](https://user-images.githubusercontent.com/95549682/221436859-1b6f130a-664a-4ca6-b559-319687f7e094.png)
-![Screen Shot 2023-02-26 at 9 38 01 PM](https://user-images.githubusercontent.com/95549682/221436945-717df355-60c6-4af3-a9be-c2c82d3642e5.png)
+## Admin System
+|    Project          | Note          |
+|    :----:           |          ---: |
+| ft_ping             | ⏳⌛️          |
+| ft_traceroute       | ⏳⌛️          |
+| ft_nmap             | ⏳⌛️          |
+| Inception_Of_Things | ⏳⌛️          |
 
-## Contact
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+# Contact
+|    [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) | [Note         ](https://www.linkedin.com/in/fanny-lemaitre/)https://www.linkedin.com/in/fanny-lemaitre/ |
+|    :----:           |          ---: |
 
-https://www.linkedin.com/in/fanny-lemaitre/
+
+
