@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 # Common-Core Projects at 42 School
 | # Project   | Link/Name     | Note          |  # Project   | Link/Name        | Note          |
 | :---        |    :----:     |          ---: |  :---        |    :----:        |          ---: |
-| 1           | libft         | 125/100       |  9           | minishell        | 125/100       |
+| 1           | libft         | ![LIBFT](https://badgen.net/badge/Libft/125/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)       |  9           | minishell        | 125/100       |
 | 2           | ft_printf     | 100/100       |  10          | miniRT           | 125/100       |
 | 3           | get_next_line | 125/100       |  11          | CPP_Piscine      | 100/100 (9/9) |
 | 4           | Born2beRoot   | 125/100       |  12          | Python_Piscine   | 100/100 (5/5) |
