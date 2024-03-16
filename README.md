@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 | 5           | push_swap     | 125/100       |  13          | ML_Piscine       | 100/100 (3/5) |
 | 6           | so_long       | 125/100       |  14          | webserv          | 125/100       |
 | 7           | pipex         | 125/100       |  15          | inception        | 105/100       |
-| 8           | philosophers  | 125/100       |  16          | ft_transcendance | ⏳⌛️          |
+| 8           | philosophers  | 125/100       |  16          | ft_transcendance | 100/100       |
 
 **Some visual examples**
 | So Long |  miniRT | | |
